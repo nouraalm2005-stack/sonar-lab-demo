@@ -1,0 +1,7 @@
+organization=nouraalm2005-stack
+projectKey=nouraalm2005-stack_sonar-lab-demo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.111034
+dashboardUrl=https://sonarcloud.io/dashboard?id=nouraalm2005-stack_sonar-lab-demo
+ceTaskId=AaE16DSfZx-VwdlHd_29
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaE16DSfZx-VwdlHd_29
